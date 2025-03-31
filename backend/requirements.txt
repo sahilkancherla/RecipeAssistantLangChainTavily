@@ -1,0 +1,9 @@
+langchain-community
+langchain-openai
+tavily-python
+python-dotenv
+beautifulsoup4
+langchain-text-splitters
+langgraph
+flask
+chromadb
