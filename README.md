@@ -32,6 +32,8 @@ The project is divided into two main components:
 - AI/ML: Various models integrated through LangChain
 
 ## Setup and Installation
+Acquire a Tavily API key and an OpenAI API key. Add these to a .env file at the root of the project.
+
 Install the backend dependencies by creating a virtual environment and running:
 ```
 cd backend
@@ -40,6 +42,14 @@ pip install -r requirements.txt
 and you can run the backend Flask server by running:
 ```
 python3 app.py
+```
+
+For the frontend, in a new terminal run:
+
+```
+cd frontend
+npm install
+npm run dev
 ```
 
 ## Usage
