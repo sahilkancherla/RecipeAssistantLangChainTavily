@@ -10,11 +10,15 @@ RecipeLangChain is an innovative web application that combines the power of web 
 
 ## Screenshots
 
-![Alt text](screenshots/image1.jpeg "Optional title")
-![Alt text](screenshots/image2.jpeg "Optional title")
-![Alt text](screenshots/image3.jpeg "Optional title")
-![Alt text](screenshots/image4.jpeg "Optional title")
-![Alt text](screenshots/image5.jpeg "Optional title")
+<img src="screenshots/img1.jpeg" alt="Loading recipe url" title="Loading recipe url" width="500"/>
+<br><br>
+<img src="screenshots/img2.jpeg" alt="Example tab (Ingredients)" title="Example tab (Ingredients)" width="500"/>
+<br><br>
+<img src="screenshots/img3.jpeg" alt="Example tab (Tips)" title="Example tab (Tips)" width="500"/>
+<br><br>
+<img src="screenshots/img4.jpeg" alt="Chatbot example 1" title="Chatbot example 1" width="500"/>
+<br><br>
+<img src="screenshots/img5.jpeg" alt="Chatbot example 2" title="Chatbot example 2" width="500"/>
 
 ## Architecture
 The project is divided into two main components:
