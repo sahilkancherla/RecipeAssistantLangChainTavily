@@ -8,6 +8,14 @@ RecipeLangChain is an innovative web application that combines the power of web 
 - AI-Powered Chatbot: An intelligent assistant for answering cooking-related questions.
 - RAG (Retrieval-Augmented Generation): Enhances chatbot responses with relevant information from the recipe database.
 
+## Screenshots
+
+![Alt text](screenshots/image1.jpeg "Optional title")
+![Alt text](screenshots/image2.jpeg "Optional title")
+![Alt text](screenshots/image3.jpeg "Optional title")
+![Alt text](screenshots/image4.jpeg "Optional title")
+![Alt text](screenshots/image5.jpeg "Optional title")
+
 ## Architecture
 The project is divided into two main components:
 
