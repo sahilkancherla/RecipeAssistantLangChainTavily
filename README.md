@@ -1,4 +1,4 @@
-# RecipeAssistantLangChainTavily: AI-Powered Recipe Analysis and Chatbot
+# AI-Powered Recipe Analysis and Chatbot Using LangChain and Tavily
 RecipeLangChain is an innovative web application that combines the power of web scraping, natural language processing, and AI to provide users with detailed recipe information and an intelligent chatbot for culinary queries.
 
 ## Features
