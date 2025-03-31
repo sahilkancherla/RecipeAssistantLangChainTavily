@@ -10,15 +10,7 @@ RecipeLangChain is an innovative web application that combines the power of web 
 
 ## Screenshots
 
-<img src="screenshots/img1.jpeg" alt="Loading recipe url" title="Loading recipe url" width="500"/>
-<br><br>
-<img src="screenshots/img2.jpeg" alt="Example tab (Ingredients)" title="Example tab (Ingredients)" width="500"/>
-<br><br>
-<img src="screenshots/img3.jpeg" alt="Example tab (Tips)" title="Example tab (Tips)" width="500"/>
-<br><br>
-<img src="screenshots/img4.jpeg" alt="Chatbot example 1" title="Chatbot example 1" width="500"/>
-<br><br>
-<img src="screenshots/img5.jpeg" alt="Chatbot example 2" title="Chatbot example 2" width="500"/>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;"> <img src="screenshots/img1.jpeg" alt="Loading recipe url" title="Loading recipe url" width="500"/> <img src="screenshots/img2.jpeg" alt="Example tab (Ingredients)" title="Example tab (Ingredients)" width="500"/> </div> <br> <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;"> <img src="screenshots/img3.jpeg" alt="Example tab (Tips)" title="Example tab (Tips)" width="500"/> <img src="screenshots/img4.jpeg" alt="Chatbot example 1" title="Chatbot example 1" width="500"/> </div> <br> <div style="display: flex; justify-content: center;"> <img src="screenshots/img5.jpeg" alt="Chatbot example 2" title="Chatbot example 2" width="500"/> </div>
 
 ## Architecture
 The project is divided into two main components:
